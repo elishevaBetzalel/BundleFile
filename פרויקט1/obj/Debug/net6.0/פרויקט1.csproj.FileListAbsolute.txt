@@ -1,0 +1,90 @@
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.exe
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.deps.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.runtimeconfig.json
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.pdb
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\System.CommandLine.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.AssemblyReference.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.GeneratedMSBuildEditorConfig.editorconfig
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfoInputs.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfo.cs
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.CoreCompileInputs.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.CopyComplete
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\refint\פרויקט1.dll
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.pdb
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.genruntimeconfig.cache
+H:\B\Student\!אלישבע בצלאל\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\ref\פרויקט1.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.exe
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.deps.json
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.runtimeconfig.json
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.pdb
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\System.CommandLine.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.AssemblyReference.cache
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfoInputs.cache
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfo.cs
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.CoreCompileInputs.cache
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.CopyComplete
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\refint\פרויקט1.dll
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.pdb
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.genruntimeconfig.cache
+C:\מסלול\פרקטיקוד\פרויקט1\פרויקט1\obj\Debug\net6.0\ref\פרויקט1.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.exe
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.deps.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.runtimeconfig.json
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\פרויקט1.pdb
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.AssemblyInfo.cs
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.csproj.Up2Date
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\refint\פרויקט1.dll
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.pdb
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\פרויקט1.genruntimeconfig.cache
+C:\Users\The user\Documents\מסלול\פרקטיקוד\פרויקט1\fib - הגשה\פרויקט1\פרויקט1\obj\Debug\net6.0\ref\פרויקט1.dll

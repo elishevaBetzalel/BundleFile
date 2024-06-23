@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\fib - \u05D4\u05D2\u05E9\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25CDAA-3D40-4C61-BBFC-6177DA977B27}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81.csproj|c:\\users\\the user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\fib - \u05D4\u05D2\u05E9\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25CDAA-3D40-4C61-BBFC-6177DA977B27}|\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81.csproj|solutionrelative:\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\fib - \u05D4\u05D2\u05E9\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\Program.cs",
+              "RelativeDocumentMoniker": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\Program.cs",
+              "ToolTip": "C:\\Users\\The user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\fib - \u05D4\u05D2\u05E9\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\Program.cs",
+              "RelativeToolTip": "\u05E4\u05E8\u05D5\u05D9\u05E7\u05D81\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:17:20.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 987,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
